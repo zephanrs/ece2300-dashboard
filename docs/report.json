@@ -2,8 +2,8 @@
   "Lab 3, Part A": {
     "DLatch_GL-test": {
       "Wednesday": {
-        "pass": 9,
-        "fail": 6
+        "pass": 10,
+        "fail": 5
       },
       "Tuesday": {
         "pass": 16,
@@ -20,8 +20,8 @@
     },
     "DFF_GL-test": {
       "Wednesday": {
-        "pass": 9,
-        "fail": 6
+        "pass": 10,
+        "fail": 5
       },
       "Tuesday": {
         "pass": 16,
@@ -38,8 +38,8 @@
     },
     "DFF_RTL-test": {
       "Wednesday": {
-        "pass": 9,
-        "fail": 6
+        "pass": 10,
+        "fail": 5
       },
       "Tuesday": {
         "pass": 15,
@@ -56,8 +56,8 @@
     },
     "DFFR_GL-test": {
       "Wednesday": {
-        "pass": 7,
-        "fail": 8
+        "pass": 8,
+        "fail": 7
       },
       "Tuesday": {
         "pass": 15,
@@ -74,8 +74,8 @@
     },
     "DFFR_RTL-test": {
       "Wednesday": {
-        "pass": 7,
-        "fail": 8
+        "pass": 8,
+        "fail": 7
       },
       "Tuesday": {
         "pass": 14,
@@ -92,8 +92,8 @@
     },
     "DFFRE_GL-test": {
       "Wednesday": {
-        "pass": 6,
-        "fail": 9
+        "pass": 7,
+        "fail": 8
       },
       "Tuesday": {
         "pass": 15,
@@ -110,8 +110,8 @@
     },
     "DFFRE_RTL-test": {
       "Wednesday": {
-        "pass": 6,
-        "fail": 9
+        "pass": 7,
+        "fail": 8
       },
       "Tuesday": {
         "pass": 14,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-14T01:26:55.837045"
+  "_last_updated": "2025-10-14T06:08:26.744041"
 }
