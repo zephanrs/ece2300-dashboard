@@ -37,7 +37,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git add web/report.json
+          git add docs/report.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
