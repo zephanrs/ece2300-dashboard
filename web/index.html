@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ECE2300 Progress Dashboard</title>
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Custom styling -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="bg-gradient-to-b from-slate-100 to-slate-50 text-gray-800 font-sans leading-relaxed">
+
+  <header class="text-center py-10 border-b border-gray-200">
+    <h1 class="text-4xl font-bold mb-2 text-slate-800 tracking-tight">ECE2300 Progress Dashboard</h1>
+    <p class="text-lg text-slate-500">Realtime class performance by lab section and module</p>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-10">
+    <section id="legend" class="flex flex-wrap justify-center gap-6 mb-10 text-sm"></section>
+    <section id="charts" class="space-y-14"></section>
+  </main>
+
+  <footer class="text-center text-slate-500 text-sm py-6 border-t border-gray-200">
+    <span id="last-updated">Last updated: —</span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
