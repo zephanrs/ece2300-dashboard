@@ -64,7 +64,7 @@ def main():
         bucket["pass" if passed else "fail"] += 1
 
   data["_last_updated"] = datetime.datetime.now().isoformat()
-  json.dump(data, open("web/report.json", "w"), indent=2)
+  json.dump(data, open("docs/report.json", "w"), indent=2)
 
 if __name__ == "__main__":
   main()
