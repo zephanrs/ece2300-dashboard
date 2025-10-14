@@ -3,6 +3,7 @@ import os, re, json, requests, datetime
 from github import Github, Auth
 from dotenv import load_dotenv
 from tqdm import tqdm
+from zoneinfo import ZoneInfo
 
 load_dotenv()
 
@@ -63,7 +64,7 @@ def main():
         bucket = data.setdefault(action, {}).setdefault(test, {}).setdefault(section, {"pass": 0, "fail": 0})
         bucket["pass" if passed else "fail"] += 1
 
-  data["_last_updated"] = datetime.datetime.now().isoformat()
+  data["_last_updated"] = datetime.datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d %I:%M %p %Z")
   json.dump(data, open("docs/report.json", "w"), indent=2)
 
 if __name__ == "__main__":
