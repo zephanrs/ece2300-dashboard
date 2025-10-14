@@ -64,7 +64,7 @@ def main():
         bucket = data.setdefault(action, {}).setdefault(test, {}).setdefault(section, {"pass": 0, "fail": 0})
         bucket["pass" if passed else "fail"] += 1
 
-  data["_last_updated"] = datetime.datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d %I:%M %p %Z")
+  data["_last_updated"] = datetime.datetime.now(ZoneInfo("America/New_York")).isoformat()
   json.dump(data, open("docs/report.json", "w"), indent=2)
 
 if __name__ == "__main__":
