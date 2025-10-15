@@ -2,8 +2,8 @@
   "Lab 3, Part A": {
     "DLatch_GL-test": {
       "Wednesday": {
-        "pass": 10,
-        "fail": 5
+        "pass": 9,
+        "fail": 6
       },
       "Tuesday": {
         "pass": 16,
@@ -20,8 +20,8 @@
     },
     "DFF_GL-test": {
       "Wednesday": {
-        "pass": 10,
-        "fail": 5
+        "pass": 9,
+        "fail": 6
       },
       "Tuesday": {
         "pass": 16,
@@ -38,8 +38,8 @@
     },
     "DFF_RTL-test": {
       "Wednesday": {
-        "pass": 10,
-        "fail": 5
+        "pass": 9,
+        "fail": 6
       },
       "Tuesday": {
         "pass": 15,
@@ -244,8 +244,8 @@
         "fail": 21
       },
       "Monday Evening": {
-        "pass": 0,
-        "fail": 20
+        "pass": 1,
+        "fail": 19
       },
       "Monday Morning": {
         "pass": 0,
@@ -280,8 +280,8 @@
         "fail": 21
       },
       "Monday Evening": {
-        "pass": 0,
-        "fail": 20
+        "pass": 1,
+        "fail": 19
       },
       "Monday Morning": {
         "pass": 0,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-15T09:33:41.829096-04:00"
+  "_last_updated": "2025-10-15T10:22:07.524149-04:00"
 }
