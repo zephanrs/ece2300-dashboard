@@ -244,8 +244,8 @@
         "fail": 18
       },
       "Monday Evening": {
-        "pass": 4,
-        "fail": 16
+        "pass": 5,
+        "fail": 15
       },
       "Monday Morning": {
         "pass": 2,
@@ -262,8 +262,8 @@
         "fail": 18
       },
       "Monday Evening": {
-        "pass": 3,
-        "fail": 17
+        "pass": 4,
+        "fail": 16
       },
       "Monday Morning": {
         "pass": 1,
@@ -280,8 +280,8 @@
         "fail": 19
       },
       "Monday Evening": {
-        "pass": 3,
-        "fail": 17
+        "pass": 4,
+        "fail": 16
       },
       "Monday Morning": {
         "pass": 1,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-18T04:23:44.329373-04:00"
+  "_last_updated": "2025-10-18T05:19:01.415480-04:00"
 }
