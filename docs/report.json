@@ -6,8 +6,8 @@
         "fail": 7
       },
       "Tuesday": {
-        "pass": 14,
-        "fail": 7
+        "pass": 13,
+        "fail": 8
       },
       "Monday Evening": {
         "pass": 11,
@@ -24,8 +24,8 @@
         "fail": 7
       },
       "Tuesday": {
-        "pass": 15,
-        "fail": 6
+        "pass": 14,
+        "fail": 7
       },
       "Monday Evening": {
         "pass": 11,
@@ -42,8 +42,8 @@
         "fail": 7
       },
       "Tuesday": {
-        "pass": 15,
-        "fail": 6
+        "pass": 14,
+        "fail": 7
       },
       "Monday Evening": {
         "pass": 11,
@@ -60,8 +60,8 @@
         "fail": 8
       },
       "Tuesday": {
-        "pass": 15,
-        "fail": 6
+        "pass": 14,
+        "fail": 7
       },
       "Monday Evening": {
         "pass": 9,
@@ -78,8 +78,8 @@
         "fail": 8
       },
       "Tuesday": {
-        "pass": 15,
-        "fail": 6
+        "pass": 14,
+        "fail": 7
       },
       "Monday Evening": {
         "pass": 9,
@@ -96,8 +96,8 @@
         "fail": 8
       },
       "Tuesday": {
-        "pass": 15,
-        "fail": 6
+        "pass": 14,
+        "fail": 7
       },
       "Monday Evening": {
         "pass": 9,
@@ -114,8 +114,8 @@
         "fail": 8
       },
       "Tuesday": {
-        "pass": 15,
-        "fail": 6
+        "pass": 14,
+        "fail": 7
       },
       "Monday Evening": {
         "pass": 9,
@@ -150,8 +150,8 @@
         "fail": 10
       },
       "Tuesday": {
-        "pass": 14,
-        "fail": 7
+        "pass": 13,
+        "fail": 8
       },
       "Monday Evening": {
         "pass": 8,
@@ -168,8 +168,8 @@
         "fail": 8
       },
       "Tuesday": {
-        "pass": 14,
-        "fail": 7
+        "pass": 13,
+        "fail": 8
       },
       "Monday Evening": {
         "pass": 11,
@@ -182,12 +182,12 @@
     },
     "Counter_16b_GL-test": {
       "Wednesday": {
-        "pass": 3,
-        "fail": 12
+        "pass": 4,
+        "fail": 11
       },
       "Tuesday": {
-        "pass": 7,
-        "fail": 14
+        "pass": 6,
+        "fail": 15
       },
       "Monday Evening": {
         "pass": 8,
@@ -200,8 +200,8 @@
     },
     "Counter_16b_RTL-test": {
       "Wednesday": {
-        "pass": 1,
-        "fail": 14
+        "pass": 2,
+        "fail": 13
       },
       "Tuesday": {
         "pass": 7,
@@ -222,8 +222,8 @@
         "fail": 13
       },
       "Tuesday": {
-        "pass": 5,
-        "fail": 16
+        "pass": 4,
+        "fail": 17
       },
       "Monday Evening": {
         "pass": 7,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-18T17:16:37.985936-04:00"
+  "_last_updated": "2025-10-18T18:17:57.017498-04:00"
 }
