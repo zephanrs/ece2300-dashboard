@@ -14,8 +14,8 @@
         "fail": 8
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "DFF_GL-test": {
@@ -32,8 +32,8 @@
         "fail": 8
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "DFF_RTL-test": {
@@ -50,8 +50,8 @@
         "fail": 8
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "DFFR_GL-test": {
@@ -68,8 +68,8 @@
         "fail": 10
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "DFFR_RTL-test": {
@@ -86,8 +86,8 @@
         "fail": 10
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "DFFRE_GL-test": {
@@ -104,8 +104,8 @@
         "fail": 10
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "DFFRE_RTL-test": {
@@ -122,8 +122,8 @@
         "fail": 10
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "Register_16b_GL-test": {
@@ -140,8 +140,8 @@
         "fail": 10
       },
       "Monday Morning": {
-        "pass": 6,
-        "fail": 2
+        "pass": 5,
+        "fail": 3
       }
     },
     "Register_16b_RTL-test": {
@@ -158,8 +158,8 @@
         "fail": 10
       },
       "Monday Morning": {
-        "pass": 6,
-        "fail": 2
+        "pass": 5,
+        "fail": 3
       }
     },
     "EqComparator_16b_GL-test": {
@@ -176,14 +176,14 @@
         "fail": 7
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "Counter_16b_GL-test": {
       "Wednesday": {
-        "pass": 8,
-        "fail": 7
+        "pass": 7,
+        "fail": 8
       },
       "Tuesday": {
         "pass": 11,
@@ -200,8 +200,8 @@
     },
     "Counter_16b_RTL-test": {
       "Wednesday": {
-        "pass": 6,
-        "fail": 9
+        "pass": 5,
+        "fail": 10
       },
       "Tuesday": {
         "pass": 10,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-19T04:23:11.514589-04:00"
+  "_last_updated": "2025-10-19T05:18:52.643001-04:00"
 }
