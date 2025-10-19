@@ -136,8 +136,8 @@
         "fail": 7
       },
       "Monday Evening": {
-        "pass": 10,
-        "fail": 10
+        "pass": 11,
+        "fail": 9
       },
       "Monday Morning": {
         "pass": 5,
@@ -154,8 +154,8 @@
         "fail": 7
       },
       "Monday Evening": {
-        "pass": 10,
-        "fail": 10
+        "pass": 11,
+        "fail": 9
       },
       "Monday Morning": {
         "pass": 5,
@@ -172,8 +172,8 @@
         "fail": 7
       },
       "Monday Evening": {
-        "pass": 13,
-        "fail": 7
+        "pass": 14,
+        "fail": 6
       },
       "Monday Morning": {
         "pass": 6,
@@ -186,12 +186,12 @@
         "fail": 6
       },
       "Tuesday": {
-        "pass": 10,
-        "fail": 11
+        "pass": 9,
+        "fail": 12
       },
       "Monday Evening": {
-        "pass": 10,
-        "fail": 10
+        "pass": 11,
+        "fail": 9
       },
       "Monday Morning": {
         "pass": 6,
@@ -204,12 +204,12 @@
         "fail": 8
       },
       "Tuesday": {
-        "pass": 10,
-        "fail": 11
+        "pass": 9,
+        "fail": 12
       },
       "Monday Evening": {
-        "pass": 10,
-        "fail": 10
+        "pass": 11,
+        "fail": 9
       },
       "Monday Morning": {
         "pass": 4,
@@ -226,8 +226,8 @@
         "fail": 14
       },
       "Monday Evening": {
-        "pass": 9,
-        "fail": 11
+        "pass": 10,
+        "fail": 10
       },
       "Monday Morning": {
         "pass": 6,
@@ -244,8 +244,8 @@
         "fail": 15
       },
       "Monday Evening": {
-        "pass": 8,
-        "fail": 12
+        "pass": 9,
+        "fail": 11
       },
       "Monday Morning": {
         "pass": 6,
@@ -262,8 +262,8 @@
         "fail": 13
       },
       "Monday Evening": {
-        "pass": 8,
-        "fail": 12
+        "pass": 9,
+        "fail": 11
       },
       "Monday Morning": {
         "pass": 4,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-19T14:25:30.868407-04:00"
+  "_last_updated": "2025-10-19T15:15:23.111510-04:00"
 }
