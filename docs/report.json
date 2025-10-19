@@ -182,8 +182,8 @@
     },
     "Counter_16b_GL-test": {
       "Wednesday": {
-        "pass": 7,
-        "fail": 8
+        "pass": 8,
+        "fail": 7
       },
       "Tuesday": {
         "pass": 11,
@@ -200,8 +200,8 @@
     },
     "Counter_16b_RTL-test": {
       "Wednesday": {
-        "pass": 5,
-        "fail": 10
+        "pass": 6,
+        "fail": 9
       },
       "Tuesday": {
         "pass": 10,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-19T06:19:02.041507-04:00"
+  "_last_updated": "2025-10-19T07:15:20.408603-04:00"
 }
