@@ -2,134 +2,134 @@
   "Lab 3, Part A": {
     "DLatch_GL-test": {
       "Wednesday": {
-        "pass": 8,
-        "fail": 7
+        "pass": 9,
+        "fail": 6
       },
       "Tuesday": {
         "pass": 13,
         "fail": 8
       },
       "Monday Evening": {
-        "pass": 12,
-        "fail": 8
-      },
-      "Monday Morning": {
-        "pass": 7,
-        "fail": 1
-      }
-    },
-    "DFF_GL-test": {
-      "Wednesday": {
-        "pass": 8,
-        "fail": 7
-      },
-      "Tuesday": {
-        "pass": 14,
-        "fail": 7
-      },
-      "Monday Evening": {
-        "pass": 12,
-        "fail": 8
-      },
-      "Monday Morning": {
-        "pass": 7,
-        "fail": 1
-      }
-    },
-    "DFF_RTL-test": {
-      "Wednesday": {
-        "pass": 8,
-        "fail": 7
-      },
-      "Tuesday": {
-        "pass": 14,
-        "fail": 7
-      },
-      "Monday Evening": {
-        "pass": 12,
-        "fail": 8
-      },
-      "Monday Morning": {
-        "pass": 7,
-        "fail": 1
-      }
-    },
-    "DFFR_GL-test": {
-      "Wednesday": {
-        "pass": 7,
-        "fail": 8
-      },
-      "Tuesday": {
-        "pass": 14,
-        "fail": 7
-      },
-      "Monday Evening": {
-        "pass": 10,
-        "fail": 10
-      },
-      "Monday Morning": {
-        "pass": 7,
-        "fail": 1
-      }
-    },
-    "DFFR_RTL-test": {
-      "Wednesday": {
-        "pass": 7,
-        "fail": 8
-      },
-      "Tuesday": {
-        "pass": 14,
-        "fail": 7
-      },
-      "Monday Evening": {
-        "pass": 10,
-        "fail": 10
-      },
-      "Monday Morning": {
-        "pass": 7,
-        "fail": 1
-      }
-    },
-    "DFFRE_GL-test": {
-      "Wednesday": {
-        "pass": 7,
-        "fail": 8
-      },
-      "Tuesday": {
-        "pass": 14,
-        "fail": 7
-      },
-      "Monday Evening": {
-        "pass": 10,
-        "fail": 10
-      },
-      "Monday Morning": {
-        "pass": 7,
-        "fail": 1
-      }
-    },
-    "DFFRE_RTL-test": {
-      "Wednesday": {
-        "pass": 7,
-        "fail": 8
-      },
-      "Tuesday": {
-        "pass": 14,
-        "fail": 7
-      },
-      "Monday Evening": {
-        "pass": 10,
-        "fail": 10
+        "pass": 11,
+        "fail": 9
       },
       "Monday Morning": {
         "pass": 6,
         "fail": 2
       }
     },
+    "DFF_GL-test": {
+      "Wednesday": {
+        "pass": 9,
+        "fail": 6
+      },
+      "Tuesday": {
+        "pass": 14,
+        "fail": 7
+      },
+      "Monday Evening": {
+        "pass": 11,
+        "fail": 9
+      },
+      "Monday Morning": {
+        "pass": 6,
+        "fail": 2
+      }
+    },
+    "DFF_RTL-test": {
+      "Wednesday": {
+        "pass": 9,
+        "fail": 6
+      },
+      "Tuesday": {
+        "pass": 14,
+        "fail": 7
+      },
+      "Monday Evening": {
+        "pass": 11,
+        "fail": 9
+      },
+      "Monday Morning": {
+        "pass": 6,
+        "fail": 2
+      }
+    },
+    "DFFR_GL-test": {
+      "Wednesday": {
+        "pass": 8,
+        "fail": 7
+      },
+      "Tuesday": {
+        "pass": 14,
+        "fail": 7
+      },
+      "Monday Evening": {
+        "pass": 9,
+        "fail": 11
+      },
+      "Monday Morning": {
+        "pass": 6,
+        "fail": 2
+      }
+    },
+    "DFFR_RTL-test": {
+      "Wednesday": {
+        "pass": 8,
+        "fail": 7
+      },
+      "Tuesday": {
+        "pass": 14,
+        "fail": 7
+      },
+      "Monday Evening": {
+        "pass": 9,
+        "fail": 11
+      },
+      "Monday Morning": {
+        "pass": 6,
+        "fail": 2
+      }
+    },
+    "DFFRE_GL-test": {
+      "Wednesday": {
+        "pass": 8,
+        "fail": 7
+      },
+      "Tuesday": {
+        "pass": 14,
+        "fail": 7
+      },
+      "Monday Evening": {
+        "pass": 9,
+        "fail": 11
+      },
+      "Monday Morning": {
+        "pass": 6,
+        "fail": 2
+      }
+    },
+    "DFFRE_RTL-test": {
+      "Wednesday": {
+        "pass": 8,
+        "fail": 7
+      },
+      "Tuesday": {
+        "pass": 14,
+        "fail": 7
+      },
+      "Monday Evening": {
+        "pass": 9,
+        "fail": 11
+      },
+      "Monday Morning": {
+        "pass": 5,
+        "fail": 3
+      }
+    },
     "Register_16b_GL-test": {
       "Wednesday": {
-        "pass": 5,
-        "fail": 10
+        "pass": 6,
+        "fail": 9
       },
       "Tuesday": {
         "pass": 14,
@@ -146,8 +146,8 @@
     },
     "Register_16b_RTL-test": {
       "Wednesday": {
-        "pass": 5,
-        "fail": 10
+        "pass": 6,
+        "fail": 9
       },
       "Tuesday": {
         "pass": 13,
@@ -164,8 +164,8 @@
     },
     "EqComparator_16b_GL-test": {
       "Wednesday": {
-        "pass": 7,
-        "fail": 8
+        "pass": 8,
+        "fail": 7
       },
       "Tuesday": {
         "pass": 13,
@@ -176,32 +176,32 @@
         "fail": 8
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "Counter_16b_GL-test": {
       "Wednesday": {
-        "pass": 4,
-        "fail": 11
+        "pass": 5,
+        "fail": 10
       },
       "Tuesday": {
         "pass": 6,
         "fail": 15
       },
       "Monday Evening": {
-        "pass": 9,
-        "fail": 11
+        "pass": 8,
+        "fail": 12
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     },
     "Counter_16b_RTL-test": {
       "Wednesday": {
-        "pass": 3,
-        "fail": 12
+        "pass": 4,
+        "fail": 11
       },
       "Tuesday": {
         "pass": 8,
@@ -218,20 +218,20 @@
     },
     "NotePlayerCtrl_GL-test": {
       "Wednesday": {
-        "pass": 2,
-        "fail": 13
+        "pass": 3,
+        "fail": 12
       },
       "Tuesday": {
-        "pass": 4,
-        "fail": 17
+        "pass": 5,
+        "fail": 16
       },
       "Monday Evening": {
         "pass": 7,
         "fail": 13
       },
       "Monday Morning": {
-        "pass": 4,
-        "fail": 4
+        "pass": 3,
+        "fail": 5
       }
     },
     "NotePlayerCtrl_RTL-test": {
@@ -258,12 +258,12 @@
         "fail": 14
       },
       "Tuesday": {
-        "pass": 3,
-        "fail": 18
+        "pass": 4,
+        "fail": 17
       },
       "Monday Evening": {
-        "pass": 4,
-        "fail": 16
+        "pass": 5,
+        "fail": 15
       },
       "Monday Morning": {
         "pass": 2,
@@ -276,12 +276,12 @@
         "fail": 15
       },
       "Tuesday": {
-        "pass": 3,
-        "fail": 18
+        "pass": 4,
+        "fail": 17
       },
       "Monday Evening": {
-        "pass": 4,
-        "fail": 16
+        "pass": 5,
+        "fail": 15
       },
       "Monday Morning": {
         "pass": 2,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-18T19:18:06.938923-04:00"
+  "_last_updated": "2025-10-18T21:40:27.734722-04:00"
 }
