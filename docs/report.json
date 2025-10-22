@@ -2,8 +2,8 @@
   "Lab 3, Part A": {
     "DLatch_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -20,8 +20,8 @@
     },
     "DFF_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -38,8 +38,8 @@
     },
     "DFF_RTL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -56,8 +56,8 @@
     },
     "DFFR_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -74,8 +74,8 @@
     },
     "DFFR_RTL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -92,8 +92,8 @@
     },
     "DFFRE_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -110,8 +110,8 @@
     },
     "DFFRE_RTL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -128,8 +128,8 @@
     },
     "Register_16b_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -146,8 +146,8 @@
     },
     "Register_16b_RTL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -164,8 +164,8 @@
     },
     "EqComparator_16b_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -182,8 +182,8 @@
     },
     "Counter_16b_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 18,
@@ -200,8 +200,8 @@
     },
     "Counter_16b_RTL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 18,
@@ -218,8 +218,8 @@
     },
     "NotePlayerCtrl_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -236,8 +236,8 @@
     },
     "NotePlayerCtrl_RTL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 21,
@@ -254,8 +254,8 @@
     },
     "NotePlayer_GL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 19,
@@ -272,8 +272,8 @@
     },
     "NotePlayer_RTL-test": {
       "Wednesday": {
-        "pass": 14,
-        "fail": 1
+        "pass": 15,
+        "fail": 0
       },
       "Tuesday": {
         "pass": 19,
@@ -289,5 +289,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-22T18:16:59.509203-04:00"
+  "_last_updated": "2025-10-22T19:17:15.429277-04:00"
 }
