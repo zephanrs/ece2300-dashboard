@@ -7,6 +7,8 @@ from zoneinfo import ZoneInfo
 
 load_dotenv()
 
+skip_groups = {53}
+
 def strip_ansi(s: str) -> str:
   return re.sub(r"\x1B\[[0-?]*[ -/]*[@-~]", "", s)
 
@@ -34,7 +36,7 @@ def main():
 
   for repo in tqdm(repos, desc="Processing", unit="repo"):
     gnum = parse_group(repo.name)
-    if not gnum: continue
+    if not gnum or gnum in skip_groups: continue
     section = cfg["group_to_section"].get(f"{gnum:02d}")
     if not section: continue
 

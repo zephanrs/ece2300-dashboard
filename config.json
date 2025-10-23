@@ -1,23 +1,13 @@
 {
   "org": "cornell-ece2300",
   "actions": {
-    "Lab 3, Part A": [
-      "DLatch_GL-test",
-      "DFF_GL-test",
-      "DFF_RTL-test",
-      "DFFR_GL-test",
-      "DFFR_RTL-test",
-      "DFFRE_GL-test",
-      "DFFRE_RTL-test",
-      "Register_16b_GL-test",
-      "Register_16b_RTL-test",
-      "EqComparator_16b_GL-test",
-      "Counter_16b_GL-test",
-      "Counter_16b_RTL-test",
-      "NotePlayerCtrl_GL-test",
-      "NotePlayerCtrl_RTL-test",
-      "NotePlayer_GL-test",
-      "NotePlayer_RTL-test"
+    "Lab 3, Part B": [
+      "EqComparator_16b_RTL-test",
+      "Mux2_3b_RTL-test",
+      "Mux8_1b_RTL-test",
+      "MultiNotePlayer_RTL-test",
+      "MusicPlayer_RTL-test",
+      "ClockDiv_RTL-test"
     ]
   },
   "group_to_section": {
