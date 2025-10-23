@@ -1,293 +1,113 @@
 {
-  "Lab 3, Part A": {
-    "DLatch_GL-test": {
+  "Lab 3, Part B": {
+    "EqComparator_16b_RTL-test": {
       "Wednesday": {
-        "pass": 13,
+        "pass": 3,
+        "fail": 12
+      },
+      "Tuesday": {
+        "pass": 6,
+        "fail": 15
+      },
+      "Monday Evening": {
+        "pass": 6,
+        "fail": 13
+      },
+      "Monday Morning": {
+        "pass": 1,
+        "fail": 7
+      }
+    },
+    "Mux2_3b_RTL-test": {
+      "Wednesday": {
+        "pass": 2,
+        "fail": 13
+      },
+      "Tuesday": {
+        "pass": 5,
+        "fail": 16
+      },
+      "Monday Evening": {
+        "pass": 5,
+        "fail": 14
+      },
+      "Monday Morning": {
+        "pass": 1,
+        "fail": 7
+      }
+    },
+    "Mux8_1b_RTL-test": {
+      "Wednesday": {
+        "pass": 2,
+        "fail": 13
+      },
+      "Tuesday": {
+        "pass": 6,
+        "fail": 15
+      },
+      "Monday Evening": {
+        "pass": 6,
+        "fail": 13
+      },
+      "Monday Morning": {
+        "pass": 1,
+        "fail": 7
+      }
+    },
+    "MultiNotePlayer_RTL-test": {
+      "Wednesday": {
+        "pass": 0,
+        "fail": 15
+      },
+      "Tuesday": {
+        "pass": 1,
+        "fail": 20
+      },
+      "Monday Evening": {
+        "pass": 4,
+        "fail": 15
+      },
+      "Monday Morning": {
+        "pass": 1,
+        "fail": 7
+      }
+    },
+    "MusicPlayer_RTL-test": {
+      "Wednesday": {
+        "pass": 0,
+        "fail": 15
+      },
+      "Tuesday": {
+        "pass": 0,
+        "fail": 21
+      },
+      "Monday Evening": {
+        "pass": 0,
+        "fail": 19
+      },
+      "Monday Morning": {
+        "pass": 0,
+        "fail": 8
+      }
+    },
+    "ClockDiv_RTL-test": {
+      "Wednesday": {
+        "pass": 14,
         "fail": 1
       },
       "Tuesday": {
-        "pass": 21,
-        "fail": 0
+        "pass": 17,
+        "fail": 4
       },
       "Monday Evening": {
         "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "DFF_GL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "DFF_RTL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "DFFR_GL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "DFFR_RTL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "DFFRE_GL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "DFFRE_RTL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "Register_16b_GL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "Register_16b_RTL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "EqComparator_16b_GL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "Counter_16b_GL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 18,
-        "fail": 3
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "Counter_16b_RTL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 18,
-        "fail": 3
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "NotePlayerCtrl_GL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 16,
-        "fail": 2
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "NotePlayerCtrl_RTL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 21,
-        "fail": 0
-      },
-      "Monday Evening": {
-        "pass": 15,
         "fail": 3
       },
       "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "NotePlayer_GL-test": {
-      "Wednesday": {
-        "pass": 13,
+        "pass": 7,
         "fail": 1
-      },
-      "Tuesday": {
-        "pass": 20,
-        "fail": 1
-      },
-      "Monday Evening": {
-        "pass": 15,
-        "fail": 3
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
-      }
-    },
-    "NotePlayer_RTL-test": {
-      "Wednesday": {
-        "pass": 13,
-        "fail": 1
-      },
-      "Tuesday": {
-        "pass": 20,
-        "fail": 1
-      },
-      "Monday Evening": {
-        "pass": 15,
-        "fail": 3
-      },
-      "Monday Morning": {
-        "pass": 8,
-        "fail": 0
       }
     }
   },
-  "_last_updated": "2025-10-23T16:34:30.346233-04:00"
+  "_last_updated": "2025-10-23T16:45:42.690529-04:00"
 }
