@@ -2,8 +2,44 @@
   "Lab 3, Part B": {
     "EqComparator_16b_RTL-test": {
       "Wednesday": {
-        "pass": 7,
+        "pass": 6,
+        "fail": 9
+      },
+      "Tuesday": {
+        "pass": 14,
+        "fail": 7
+      },
+      "Monday Evening": {
+        "pass": 11,
         "fail": 8
+      },
+      "Monday Morning": {
+        "pass": 4,
+        "fail": 4
+      }
+    },
+    "Mux2_3b_RTL-test": {
+      "Wednesday": {
+        "pass": 5,
+        "fail": 10
+      },
+      "Tuesday": {
+        "pass": 13,
+        "fail": 8
+      },
+      "Monday Evening": {
+        "pass": 8,
+        "fail": 11
+      },
+      "Monday Morning": {
+        "pass": 4,
+        "fail": 4
+      }
+    },
+    "Mux8_1b_RTL-test": {
+      "Wednesday": {
+        "pass": 5,
+        "fail": 10
       },
       "Tuesday": {
         "pass": 13,
@@ -14,58 +50,22 @@
         "fail": 10
       },
       "Monday Morning": {
-        "pass": 5,
-        "fail": 3
-      }
-    },
-    "Mux2_3b_RTL-test": {
-      "Wednesday": {
-        "pass": 6,
-        "fail": 9
-      },
-      "Tuesday": {
-        "pass": 12,
-        "fail": 9
-      },
-      "Monday Evening": {
-        "pass": 8,
-        "fail": 11
-      },
-      "Monday Morning": {
-        "pass": 5,
-        "fail": 3
-      }
-    },
-    "Mux8_1b_RTL-test": {
-      "Wednesday": {
-        "pass": 5,
-        "fail": 10
-      },
-      "Tuesday": {
-        "pass": 11,
-        "fail": 10
-      },
-      "Monday Evening": {
-        "pass": 8,
-        "fail": 11
-      },
-      "Monday Morning": {
-        "pass": 5,
-        "fail": 3
+        "pass": 4,
+        "fail": 4
       }
     },
     "MultiNotePlayer_RTL-test": {
       "Wednesday": {
-        "pass": 2,
-        "fail": 13
+        "pass": 3,
+        "fail": 12
       },
       "Tuesday": {
-        "pass": 4,
-        "fail": 17
+        "pass": 8,
+        "fail": 13
       },
       "Monday Evening": {
-        "pass": 5,
-        "fail": 14
+        "pass": 7,
+        "fail": 12
       },
       "Monday Morning": {
         "pass": 4,
@@ -82,8 +82,8 @@
         "fail": 21
       },
       "Monday Evening": {
-        "pass": 1,
-        "fail": 18
+        "pass": 2,
+        "fail": 17
       },
       "Monday Morning": {
         "pass": 1,
@@ -92,22 +92,22 @@
     },
     "ClockDiv_RTL-test": {
       "Wednesday": {
-        "pass": 12,
-        "fail": 3
+        "pass": 10,
+        "fail": 5
       },
       "Tuesday": {
-        "pass": 15,
-        "fail": 6
+        "pass": 16,
+        "fail": 5
       },
       "Monday Evening": {
         "pass": 13,
         "fail": 6
       },
       "Monday Morning": {
-        "pass": 7,
-        "fail": 1
+        "pass": 6,
+        "fail": 2
       }
     }
   },
-  "_last_updated": "2025-10-24T15:17:26.642020-04:00"
+  "_last_updated": "2025-10-24T16:22:09.417965-04:00"
 }
