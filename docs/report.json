@@ -3,7 +3,7 @@
     "EqComparator_16b_RTL-test": {
       "Wednesday": {
         "pass": 6,
-        "fail": 9
+        "fail": 8
       },
       "Tuesday": {
         "pass": 14,
@@ -21,7 +21,7 @@
     "Mux2_3b_RTL-test": {
       "Wednesday": {
         "pass": 6,
-        "fail": 9
+        "fail": 8
       },
       "Tuesday": {
         "pass": 13,
@@ -39,7 +39,7 @@
     "Mux8_1b_RTL-test": {
       "Wednesday": {
         "pass": 6,
-        "fail": 9
+        "fail": 8
       },
       "Tuesday": {
         "pass": 13,
@@ -57,7 +57,7 @@
     "MultiNotePlayer_RTL-test": {
       "Wednesday": {
         "pass": 4,
-        "fail": 11
+        "fail": 10
       },
       "Tuesday": {
         "pass": 8,
@@ -74,26 +74,26 @@
     },
     "MusicPlayer_RTL-test": {
       "Wednesday": {
-        "pass": 1,
-        "fail": 14
+        "pass": 2,
+        "fail": 12
       },
       "Tuesday": {
-        "pass": 0,
-        "fail": 21
+        "pass": 1,
+        "fail": 20
       },
       "Monday Evening": {
         "pass": 3,
         "fail": 16
       },
       "Monday Morning": {
-        "pass": 1,
-        "fail": 7
+        "pass": 2,
+        "fail": 6
       }
     },
     "ClockDiv_RTL-test": {
       "Wednesday": {
         "pass": 10,
-        "fail": 5
+        "fail": 4
       },
       "Tuesday": {
         "pass": 16,
@@ -109,5 +109,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-24T18:19:19.799650-04:00"
+  "_last_updated": "2025-10-24T19:18:25.814563-04:00"
 }
