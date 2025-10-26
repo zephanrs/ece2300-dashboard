@@ -2,12 +2,12 @@
   "Lab 3, Part B": {
     "EqComparator_16b_RTL-test": {
       "Wednesday": {
-        "pass": 11,
-        "fail": 4
+        "pass": 12,
+        "fail": 3
       },
       "Tuesday": {
-        "pass": 16,
-        "fail": 5
+        "pass": 17,
+        "fail": 4
       },
       "Monday Evening": {
         "pass": 13,
@@ -20,12 +20,12 @@
     },
     "Mux2_3b_RTL-test": {
       "Wednesday": {
-        "pass": 10,
-        "fail": 5
+        "pass": 11,
+        "fail": 4
       },
       "Tuesday": {
-        "pass": 16,
-        "fail": 5
+        "pass": 17,
+        "fail": 4
       },
       "Monday Evening": {
         "pass": 13,
@@ -38,12 +38,12 @@
     },
     "Mux8_1b_RTL-test": {
       "Wednesday": {
-        "pass": 10,
-        "fail": 5
+        "pass": 11,
+        "fail": 4
       },
       "Tuesday": {
-        "pass": 16,
-        "fail": 5
+        "pass": 17,
+        "fail": 4
       },
       "Monday Evening": {
         "pass": 13,
@@ -56,12 +56,12 @@
     },
     "MultiNotePlayer_RTL-test": {
       "Wednesday": {
-        "pass": 9,
-        "fail": 6
+        "pass": 10,
+        "fail": 5
       },
       "Tuesday": {
-        "pass": 14,
-        "fail": 7
+        "pass": 15,
+        "fail": 6
       },
       "Monday Evening": {
         "pass": 12,
@@ -78,8 +78,8 @@
         "fail": 9
       },
       "Tuesday": {
-        "pass": 7,
-        "fail": 14
+        "pass": 8,
+        "fail": 13
       },
       "Monday Evening": {
         "pass": 8,
@@ -96,8 +96,8 @@
         "fail": 2
       },
       "Tuesday": {
-        "pass": 16,
-        "fail": 5
+        "pass": 17,
+        "fail": 4
       },
       "Monday Evening": {
         "pass": 14,
@@ -109,5 +109,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-26T14:26:15.045659-04:00"
+  "_last_updated": "2025-10-26T15:15:53.499234-04:00"
 }
