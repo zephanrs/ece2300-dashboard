@@ -6,12 +6,12 @@
         "fail": 2
       },
       "Tuesday": {
-        "pass": 17,
-        "fail": 4
+        "pass": 18,
+        "fail": 3
       },
       "Monday Evening": {
-        "pass": 13,
-        "fail": 6
+        "pass": 15,
+        "fail": 4
       },
       "Monday Morning": {
         "pass": 5,
@@ -24,12 +24,12 @@
         "fail": 3
       },
       "Tuesday": {
-        "pass": 17,
-        "fail": 4
+        "pass": 18,
+        "fail": 3
       },
       "Monday Evening": {
-        "pass": 13,
-        "fail": 6
+        "pass": 15,
+        "fail": 4
       },
       "Monday Morning": {
         "pass": 5,
@@ -42,12 +42,12 @@
         "fail": 3
       },
       "Tuesday": {
-        "pass": 17,
-        "fail": 4
+        "pass": 18,
+        "fail": 3
       },
       "Monday Evening": {
-        "pass": 13,
-        "fail": 6
+        "pass": 14,
+        "fail": 5
       },
       "Monday Morning": {
         "pass": 5,
@@ -60,12 +60,12 @@
         "fail": 4
       },
       "Tuesday": {
-        "pass": 15,
-        "fail": 6
+        "pass": 16,
+        "fail": 5
       },
       "Monday Evening": {
-        "pass": 12,
-        "fail": 7
+        "pass": 14,
+        "fail": 5
       },
       "Monday Morning": {
         "pass": 5,
@@ -78,12 +78,12 @@
         "fail": 8
       },
       "Tuesday": {
-        "pass": 10,
-        "fail": 11
+        "pass": 11,
+        "fail": 10
       },
       "Monday Evening": {
-        "pass": 8,
-        "fail": 11
+        "pass": 9,
+        "fail": 10
       },
       "Monday Morning": {
         "pass": 5,
@@ -96,12 +96,12 @@
         "fail": 1
       },
       "Tuesday": {
-        "pass": 17,
-        "fail": 4
+        "pass": 18,
+        "fail": 3
       },
       "Monday Evening": {
-        "pass": 14,
-        "fail": 5
+        "pass": 16,
+        "fail": 3
       },
       "Monday Morning": {
         "pass": 6,
@@ -109,5 +109,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-26T17:17:45.798484-04:00"
+  "_last_updated": "2025-10-26T18:18:27.144268-04:00"
 }
