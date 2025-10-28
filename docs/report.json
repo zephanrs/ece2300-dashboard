@@ -82,8 +82,8 @@
         "fail": 0
       },
       "Monday Evening": {
-        "pass": 16,
-        "fail": 3
+        "pass": 15,
+        "fail": 4
       },
       "Monday Morning": {
         "pass": 8,
@@ -109,5 +109,5 @@
       }
     }
   },
-  "_last_updated": "2025-10-28T04:28:43.273709-04:00"
+  "_last_updated": "2025-10-28T05:23:05.487807-04:00"
 }
