@@ -2,8 +2,8 @@
   "Lab 3, Part B": {
     "EqComparator_16b_RTL-test": {
       "Wednesday": {
-        "pass": 15,
-        "fail": 0
+        "pass": 14,
+        "fail": 1
       },
       "Tuesday": {
         "pass": 21,
@@ -20,8 +20,8 @@
     },
     "Mux2_3b_RTL-test": {
       "Wednesday": {
-        "pass": 15,
-        "fail": 0
+        "pass": 14,
+        "fail": 1
       },
       "Tuesday": {
         "pass": 21,
@@ -38,8 +38,8 @@
     },
     "Mux8_1b_RTL-test": {
       "Wednesday": {
-        "pass": 15,
-        "fail": 0
+        "pass": 14,
+        "fail": 1
       },
       "Tuesday": {
         "pass": 21,
@@ -56,8 +56,8 @@
     },
     "MultiNotePlayer_RTL-test": {
       "Wednesday": {
-        "pass": 15,
-        "fail": 0
+        "pass": 14,
+        "fail": 1
       },
       "Tuesday": {
         "pass": 21,
@@ -74,8 +74,8 @@
     },
     "MusicPlayer_RTL-test": {
       "Wednesday": {
-        "pass": 15,
-        "fail": 0
+        "pass": 14,
+        "fail": 1
       },
       "Tuesday": {
         "pass": 21,
@@ -92,8 +92,8 @@
     },
     "ClockDiv_RTL-test": {
       "Wednesday": {
-        "pass": 15,
-        "fail": 0
+        "pass": 14,
+        "fail": 1
       },
       "Tuesday": {
         "pass": 21,
@@ -109,5 +109,5 @@
       }
     }
   },
-  "_last_updated": "2025-11-05T18:19:38.296908-05:00"
+  "_last_updated": "2025-11-05T20:27:39.763097-05:00"
 }
