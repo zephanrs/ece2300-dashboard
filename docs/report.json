@@ -14,7 +14,7 @@
         "fail": 0
       },
       "Monday Morning": {
-        "pass": 8,
+        "pass": 7,
         "fail": 0
       }
     },
@@ -32,7 +32,7 @@
         "fail": 0
       },
       "Monday Morning": {
-        "pass": 8,
+        "pass": 7,
         "fail": 0
       }
     },
@@ -50,7 +50,7 @@
         "fail": 0
       },
       "Monday Morning": {
-        "pass": 8,
+        "pass": 7,
         "fail": 0
       }
     },
@@ -68,7 +68,7 @@
         "fail": 0
       },
       "Monday Morning": {
-        "pass": 8,
+        "pass": 7,
         "fail": 0
       }
     },
@@ -86,7 +86,7 @@
         "fail": 0
       },
       "Monday Morning": {
-        "pass": 8,
+        "pass": 7,
         "fail": 0
       }
     },
@@ -104,10 +104,10 @@
         "fail": 0
       },
       "Monday Morning": {
-        "pass": 8,
+        "pass": 7,
         "fail": 0
       }
     }
   },
-  "_last_updated": "2025-12-07T09:18:07.512850-05:00"
+  "_last_updated": "2025-12-07T10:18:33.711354-05:00"
 }
